@@ -1,4 +1,4 @@
-package ge.nick;
+package ge.nick.utils;
 
 import ge.nick.states.State;
 import ge.nick.states.WaitForMoney;

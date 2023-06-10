@@ -1,10 +1,10 @@
 package ge.nick.states;
 
-import ge.nick.Jukebox;
+import ge.nick.utils.Jukebox;
 
 public class Playing extends State{
 
-    private Thread playThread;
+    private final Thread playThread;
 
     public Playing(Jukebox jukebox, Thread playThread) {
         super(jukebox);

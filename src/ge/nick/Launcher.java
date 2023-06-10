@@ -1,9 +1,11 @@
 package ge.nick;
 
+import ge.nick.utils.Jukebox;
+
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class Launcher {
     public static void main(String[] args) {
 
         Map<String, Integer> playList = new HashMap<>();

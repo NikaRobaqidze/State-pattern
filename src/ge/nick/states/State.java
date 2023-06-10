@@ -1,6 +1,6 @@
 package ge.nick.states;
 
-import ge.nick.Jukebox;
+import ge.nick.utils.Jukebox;
 
 abstract public class State {
 
